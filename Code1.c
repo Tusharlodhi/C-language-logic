@@ -1,3 +1,5 @@
+//addition and subtraction of 2 no's
+
 #include<stdio.h>
 int main(){
 	int a,b;
@@ -11,7 +13,5 @@ int main(){
 	printf("addition is : %d  and subtraction is : %d" ,a+b,a-b);
 	
 	return 0;
-	
-	
 	
 }
